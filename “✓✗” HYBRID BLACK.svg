@@ -3,14 +3,19 @@
    version="1.1"
    viewBox="-81 0 1040.25 987.75"
    id="svg1"
-   sodipodi:docname="uni237B-Hybrid.svg"
+   sodipodi:docname="“✓✗” HYBRID BLACK.svg"
    width="1040.25"
    height="987.75"
    inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <title
+     id="title1">⍻</title>
   <defs
      id="defs1" />
   <sodipodi:namedview
@@ -24,7 +29,7 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:zoom="0.44555556"
      inkscape:cx="520.69825"
-     inkscape:cy="603.74065"
+     inkscape:cy="603.74064"
      inkscape:window-width="1920"
      inkscape:window-height="991"
      inkscape:window-x="-9"
@@ -35,4 +40,31 @@
      fill="currentColor"
      d="m 933,0 26.25,37.5 c -107,80.5 -226,204.5 -357,372 -131,167.5 -231,324 -300,469.5 l -55.5,37.5 c -46,32 -77.25,55.75 -93.75,71.25 -6.5,-23.5 -20.75,-62 -42.75,-115.5 l -21,-48.75 C 59.25,753.5 31.375,701.75 5.625,668.25 -20.125,634.75 -49,612.5 -81,601.5 -27,544.5 22.5,516 67.5,516 c 38.5,0 81.25,52.25 128.25,156.75 l 23.25,52.5 c 84.5,-142.5 193,-281 325.5,-415.5 C 677,175.25 806.5,72 933,0 Z M 500.125,602.375 356.875,451.625 c -73.332,-77.1719 -110.25,-144.25 -110.25,-198.75 0,-44.5 40.25,-97 120.75,-157.5 11.5,77.5 44.9258,153.256 102.75,226.5 l 22.5,28.5 136.5,145.5 c 75.5107,80.4893 164.5,117 252,117 -47,95 -96,142.5 -147,142.5 -46,0 -111.424,-41.083 -199.5,-121.5 z"
      id="path1" />
+  <metadata
+     id="metadata1">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>⍻</dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Mehdical Man</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>Mehdical Man</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:identifier>⍻</dc:identifier>
+        <dc:relation>⍻</dc:relation>
+        <dc:description>Is it right, or is it wrong? Could be both.</dc:description>
+        <dc:contributor>
+          <cc:Agent>
+            <dc:title>Mehdical Man</dc:title>
+          </cc:Agent>
+        </dc:contributor>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
 </svg>
